@@ -1,0 +1,950 @@
+{
+   "Charlotte Motor Speedway - Oval - 2018":{
+      "name":"Charlotte Motor Speedway",
+      "config":"Oval - 2018"
+   },
+   "Langley Speedway":{
+      "name":"Langley Speedway",
+      "config":"Langley Speedway"
+   },
+   "USA International Speedway - Asphalt":{
+      "name":"USA International Speedway",
+      "config":"Asphalt"
+   },
+   "Southern National Motorsports Park":{
+      "name":"Southern National Motorsports Park",
+      "config":"Southern National Motorsports Park"
+   },
+   "Charlotte Motor Speedway - Legends Oval - 2018":{
+      "name":"Charlotte Motor Speedway",
+      "config":"Legends Oval - 2018"
+   },
+   "Oxford Plains Speedway":{
+      "name":"Oxford Plains Speedway",
+      "config":"Oxford Plains Speedway"
+   },
+   "South Boston Speedway":{
+      "name":"South Boston Speedway",
+      "config":"South Boston Speedway"
+   },
+   "Lanier National Speedway - Asphalt":{
+      "name":"Lanier National Speedway",
+      "config":"Asphalt"
+   },
+   "Concord Speedway":{
+      "name":"Concord Speedway",
+      "config":"Concord Speedway"
+   },
+   "Thompson Speedway Motorsports Park - Oval":{
+      "name":"Thompson Speedway Motorsports Park",
+      "config":"Oval"
+   },
+   "Myrtle Beach Speedway":{
+      "name":"Myrtle Beach Speedway",
+      "config":"Myrtle Beach Speedway"
+   },
+   "Nashville Fairgrounds Speedway - Oval":{
+      "name":"Nashville Fairgrounds Speedway",
+      "config":"Oval"
+   },
+   "North Wilkesboro Speedway - 1987":{
+      "name":"North Wilkesboro Speedway",
+      "config":"1987"
+   },
+   "New Smyrna Speedway":{
+      "name":"New Smyrna Speedway",
+      "config":"New Smyrna Speedway"
+   },
+   "The Bullring":{
+      "name":"The Bullring",
+      "config":"The Bullring"
+   },
+   "Five Flags Speedway":{
+      "name":"Five Flags Speedway",
+      "config":"Five Flags Speedway"
+   },
+   "Martinsville Speedway":{
+      "name":"Martinsville Speedway",
+      "config":"Martinsville Speedway"
+   },
+   "Atlanta Motor Speedway - Oval":{
+      "name":"Atlanta Motor Speedway",
+      "config":"Oval"
+   },
+   "Sonoma Raceway - Cup Historic":{
+      "name":"Sonoma Raceway",
+      "config":"Cup Historic"
+   },
+   "Iowa Speedway - Oval":{
+      "name":"Iowa Speedway",
+      "config":"Oval"
+   },
+   "[Legacy] Charlotte Motor Speedway - 2008 - Oval":{
+      "name":"[Legacy] Charlotte Motor Speedway",
+      "config":"2008 - Oval"
+   },
+   "Daytona International Speedway - Oval":{
+      "name":"Daytona International Speedway",
+      "config":"Oval"
+   },
+   "Rockingham Speedway - Oval":{
+      "name":"Rockingham Speedway",
+      "config":"Oval"
+   },
+   "Richmond Raceway":{
+      "name":"Richmond Raceway",
+      "config":"Richmond Raceway"
+   },
+   "Stafford Motor Speedway - Full Course":{
+      "name":"Stafford Motor Speedway",
+      "config":"Full Course"
+   },
+   "[Legacy] Phoenix Raceway - 2008 - Oval":{
+      "name":"[Legacy] Phoenix Raceway",
+      "config":"2008 - Oval"
+   },
+   "[Legacy] Texas Motor Speedway - 2009 - Road Course Long":{
+      "name":"[Legacy] Texas Motor Speedway",
+      "config":"2009 - Road Course Long"
+   },
+   "The Milwaukee Mile":{
+      "name":"The Milwaukee Mile",
+      "config":"The Milwaukee Mile"
+   },
+   "New Hampshire Motor Speedway - Oval":{
+      "name":"New Hampshire Motor Speedway",
+      "config":"Oval"
+   },
+   "Bristol Motor Speedway - Single Pit Roads":{
+      "name":"Bristol Motor Speedway",
+      "config":"Single Pit Roads"
+   },
+   "Irwindale Speedway - Inner":{
+      "name":"Irwindale Speedway",
+      "config":"Inner"
+   },
+   "Lucas Oil Raceway - Oval":{
+      "name":"Lucas Oil Raceway",
+      "config":"Oval"
+   },
+   "Irwindale Speedway - Outer":{
+      "name":"Irwindale Speedway",
+      "config":"Outer"
+   },
+   "[Legacy] Michigan International Speedway - 2009":{
+      "name":"[Legacy] Michigan International Speedway",
+      "config":"2009"
+   },
+   "Chicagoland Speedway":{
+      "name":"Chicagoland Speedway",
+      "config":"Chicagoland Speedway"
+   },
+   "Road America - Full Course":{
+      "name":"Road America",
+      "config":"Full Course"
+   },
+   "Road America - Bend":{
+      "name":"Road America",
+      "config":"Bend"
+   },
+   "[Legacy] Texas Motor Speedway - 2009 - Oval":{
+      "name":"[Legacy] Texas Motor Speedway",
+      "config":"2009 - Oval"
+   },
+   "Homestead Miami Speedway - Oval":{
+      "name":"Homestead Miami Speedway",
+      "config":"Oval"
+   },
+   "Las Vegas Motor Speedway - Oval":{
+      "name":"Las Vegas Motor Speedway",
+      "config":"Oval"
+   },
+   "Darlington Raceway":{
+      "name":"Darlington Raceway",
+      "config":"Darlington Raceway"
+   },
+   "Talladega Superspeedway":{
+      "name":"Talladega Superspeedway",
+      "config":"Talladega Superspeedway"
+   },
+   "Road Atlanta - Full Course":{
+      "name":"Road Atlanta",
+      "config":"Full Course"
+   },
+   "[Legacy] Daytona International Speedway - 2008 Constant weather, Dynamic sky, Qual - Oval":{
+      "name":"[Legacy] Daytona International Speedway",
+      "config":"2008 - Oval"
+   },
+   "Indianapolis Motor Speedway - IndyCar Oval":{
+      "name":"Indianapolis Motor Speedway",
+      "config":"IndyCar Oval"
+   },
+   "Michigan International Speedway":{
+      "name":"Michigan International Speedway",
+      "config":"Michigan International Speedway"
+   },
+   "Pocono Raceway":{
+      "name":"Pocono Raceway",
+      "config":"Pocono Raceway"
+   },
+   "Circuit Gilles Villeneuve":{
+      "name":"Circuit Gilles Villeneuve",
+      "config":"Circuit Gilles Villeneuve"
+   },
+   "Indianapolis Motor Speedway - Oval":{
+      "name":"Indianapolis Motor Speedway",
+      "config":"Oval"
+   },
+   "Auto Club Speedway - Oval":{
+      "name":"Auto Club Speedway",
+      "config":"Oval"
+   },
+   "Twin Ring Motegi - Oval":{
+      "name":"Twin Ring Motegi",
+      "config":"Oval"
+   },
+   "Watkins Glen International - Cup":{
+      "name":"Watkins Glen International",
+      "config":"Cup"
+   },
+   "[Legacy] Kentucky Speedway - 2011 - Oval":{
+      "name":"[Legacy] Kentucky Speedway",
+      "config":"2011 - Oval"
+   },
+   "World Wide Technology Raceway - Oval":{
+      "name":"World Wide Technology Raceway",
+      "config":"Oval"
+   },
+   "Daytona International Speedway - Moto":{
+      "name":"Daytona International Speedway",
+      "config":"Moto"
+   },
+   "Tsukuba Circuit - 2000 Full":{
+      "name":"Tsukuba Circuit",
+      "config":"2000 Full"
+   },
+   "Okayama International Circuit - Full Course":{
+      "name":"Okayama International Circuit",
+      "config":"Full Course"
+   },
+   "Lime Rock Park - Grand Prix":{
+      "name":"Lime Rock Park",
+      "config":"Grand Prix"
+   },
+   "Summit Point Raceway - Summit Point Raceway Constant weather, Dynamic sky, Qual":{
+      "name":"Summit Point Raceway",
+      "config":"Summit Point Raceway"
+   },
+   "Oulton Park Circuit - International":{
+      "name":"Oulton Park Circuit",
+      "config":"International"
+   },
+   "Charlotte Motor Speedway - Roval":{
+      "name":"Charlotte Motor Speedway",
+      "config":"Roval"
+   },
+   "Oran Park Raceway - Grand Prix":{
+      "name":"Oran Park Raceway",
+      "config":"Grand Prix"
+   },
+   "Okayama International Circuit - Short":{
+      "name":"Okayama International Circuit",
+      "config":"Short"
+   },
+   "Summit Point Raceway - Jefferson Circuit":{
+      "name":"Summit Point Raceway",
+      "config":"Jefferson Circuit"
+   },
+   "Oulton Park Circuit - Fosters":{
+      "name":"Oulton Park Circuit",
+      "config":"Fosters"
+   },
+   "Oran Park Raceway - South":{
+      "name":"Oran Park Raceway",
+      "config":"South"
+   },
+   "WeatherTech Raceway at Laguna Seca - Full Course":{
+      "name":"WeatherTech Raceway at Laguna Seca",
+      "config":"Full Course"
+   },
+   "Tsukuba Circuit - 2000 Moto":{
+      "name":"Tsukuba Circuit",
+      "config":"2000 Moto"
+   },
+   "[Legacy] Phoenix Raceway - 2008 - Road Course":{
+      "name":"[Legacy] Phoenix Raceway",
+      "config":"2008 - Road Course"
+   },
+   "Summit Point Raceway - Oval":{
+      "name":"Summit Point Raceway",
+      "config":"Oval"
+   },
+   "Oulton Park Circuit - Intl w/out Hislop":{
+      "name":"Oulton Park Circuit",
+      "config":"Intl w/out Hislop"
+   },
+   "[Legacy] Daytona International Speedway - 2008 Dynamic weather, Dynamic sky, Qual - Road Course":{
+      "name":"[Legacy] Daytona International Speedway",
+      "config":"2008 - Road Course"
+   },
+   "Brands Hatch Circuit - Grand Prix":{
+      "name":"Brands Hatch Circuit",
+      "config":"Grand Prix"
+   },
+   "Homestead Miami Speedway - Road Course B":{
+      "name":"Homestead Miami Speedway",
+      "config":"Road Course B"
+   },
+   "Circuit de Spa-Francorchamps - Grand Prix Pits":{
+      "name":"Circuit de Spa-Francorchamps",
+      "config":"Grand Prix Pits"
+   },
+   "Lime Rock Park - Classic":{
+      "name":"Lime Rock Park",
+      "config":"Classic"
+   },
+   "Suzuka International Racing Course - Grand Prix Constant weather, Dynamic sky, Qual":{
+      "name":"Suzuka International Racing Course",
+      "config":"Grand Prix"
+   },
+   "Watkins Glen International - Classic Boot":{
+      "name":"Watkins Glen International",
+      "config":"Classic Boot"
+   },
+   "Centripetal Circuit":{
+      "name":"Centripetal Circuit",
+      "config":"Centripetal Circuit"
+   },
+   "Daytona International Speedway - Road Course Constant weather, Dynamic sky, Qual":{
+      "name":"Daytona International Speedway",
+      "config":"Road Course"
+   },
+   "Brands Hatch Circuit - Indy":{
+      "name":"Brands Hatch Circuit",
+      "config":"Indy"
+   },
+   "Watkins Glen International - Boot":{
+      "name":"Watkins Glen International",
+      "config":"Boot"
+   },
+   "Sonoma Raceway - IRL":{
+      "name":"Sonoma Raceway",
+      "config":"IRL"
+   },
+   "Suzuka International Racing Course - Grand Prix Dynamic weather, Dynamic sky, Qual":{
+      "name":"Suzuka International Racing Course",
+      "config":"Grand Prix"
+   },
+   "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix":{
+      "name":"Autodromo Internazionale Enzo e Dino Ferrari",
+      "config":"Grand Prix"
+   },
+   "Circuit Zolder - Alternate":{
+      "name":"Circuit Zolder",
+      "config":"Alternate"
+   },
+   "Autódromo José Carlos Pace - Grand Prix":{
+      "name":"Autódromo José Carlos Pace",
+      "config":"Grand Prix"
+   },
+   "Mount Panorama Circuit":{
+      "name":"Mount Panorama Circuit",
+      "config":"Mount Panorama Circuit"
+   },
+   "Canadian Tire Motorsports Park":{
+      "name":"Canadian Tire Motorsports Park",
+      "config":"Canadian Tire Motorsports Park"
+   },
+   "Donington Park Racing Circuit - National":{
+      "name":"Donington Park Racing Circuit",
+      "config":"National"
+   },
+   "Circuit de Barcelona Catalunya - Grand Prix":{
+      "name":"Circuit de Barcelona Catalunya",
+      "config":"Grand Prix"
+   },
+   "Nürburgring Grand-Prix-Strecke - Grand Prix":{
+      "name":"Nürburgring Grand-Prix-Strecke",
+      "config":"Grand Prix"
+   },
+   "Circuit Park Zandvoort - Grand Prix":{
+      "name":"Circuit Park Zandvoort",
+      "config":"Grand Prix"
+   },
+   "Phillip Island Circuit":{
+      "name":"Phillip Island Circuit",
+      "config":"Phillip Island Circuit"
+   },
+   "Circuit Zolder - Grand Prix":{
+      "name":"Circuit Zolder",
+      "config":"Grand Prix"
+   },
+   "Donington Park Racing Circuit - Grand Prix":{
+      "name":"Donington Park Racing Circuit",
+      "config":"Grand Prix"
+   },
+   "Autodromo Nazionale Monza - Grand Prix":{
+      "name":"Autodromo Nazionale Monza",
+      "config":"Grand Prix"
+   },
+   "Sebring International Raceway - International":{
+      "name":"Sebring International Raceway",
+      "config":"International"
+   },
+   "Circuit Park Zandvoort - National":{
+      "name":"Circuit Park Zandvoort",
+      "config":"National"
+   },
+   "Autodromo Nazionale Monza - Junior":{
+      "name":"Autodromo Nazionale Monza",
+      "config":"Junior"
+   },
+   "Sebring International Raceway - Club":{
+      "name":"Sebring International Raceway",
+      "config":"Club"
+   },
+   "Circuit des 24 Heures du Mans - 24 Heures du Mans":{
+      "name":"Circuit des 24 Heures du Mans",
+      "config":"24 Heures du Mans"
+   },
+   "Nürburgring Nordschleife - Industriefahrten":{
+      "name":"Nürburgring Nordschleife",
+      "config":"Industriefahrten"
+   },
+   "Road Atlanta - Short":{
+      "name":"Road Atlanta",
+      "config":"Short"
+   },
+   "Oulton Park Circuit - Intl w/no Chicanes":{
+      "name":"Oulton Park Circuit",
+      "config":"Intl w/no Chicanes"
+   },
+   "[Legacy] Silverstone Circuit - 2008 - National":{
+      "name":"[Legacy] Silverstone Circuit",
+      "config":"2008 - National"
+   },
+   "Twin Ring Motegi - Grand Prix":{
+      "name":"Twin Ring Motegi",
+      "config":"Grand Prix"
+   },
+   "Daytona International Speedway - Road Course Dynamic weather, Dynamic sky, Qual":{
+      "name":"Daytona International Speedway",
+      "config":"Road Course"
+   },
+   "Nürburgring Grand-Prix-Strecke - Grand Prix w/out Arena":{
+      "name":"Nürburgring Grand-Prix-Strecke",
+      "config":"Grand Prix w/out Arena"
+   },
+   "[Legacy] Silverstone Circuit - 2008 - Historical Grand Prix":{
+      "name":"[Legacy] Silverstone Circuit",
+      "config":"2008 - Historical Grand Prix"
+   },
+   "Detroit Grand Prix at Belle Isle - Belle Isle":{
+      "name":"Detroit Grand Prix at Belle Isle",
+      "config":"Belle Isle"
+   },
+   "Autodromo Nazionale Monza - GP without first chicane":{
+      "name":"Autodromo Nazionale Monza",
+      "config":"GP without first chicane"
+   },
+   "Circuit de Barcelona Catalunya - Historic":{
+      "name":"Circuit de Barcelona Catalunya",
+      "config":"Historic"
+   },
+   "Sonoma Raceway - Cup":{
+      "name":"Sonoma Raceway",
+      "config":"Cup"
+   },
+   "Barber Motorsports Park - Full Course":{
+      "name":"Barber Motorsports Park",
+      "config":"Full Course"
+   },
+   "Phoenix Raceway - Oval":{
+      "name":"Phoenix Raceway",
+      "config":"Oval"
+   },
+   "Virginia International Raceway - Full Course":{
+      "name":"Virginia International Raceway",
+      "config":"Full Course"
+   },
+   "Silverstone Circuit - Grand Prix":{
+      "name":"Silverstone Circuit",
+      "config":"Grand Prix"
+   },
+   "Summit Point Raceway - Summit Point Raceway Dynamic weather, Dynamic sky, Qual":{
+      "name":"Summit Point Raceway",
+      "config":"Summit Point Raceway"
+   },
+   "Virginia International Raceway - Grand West":{
+      "name":"Virginia International Raceway",
+      "config":"Grand West"
+   },
+   "Snetterton Circuit - 300":{
+      "name":"Snetterton Circuit",
+      "config":"300"
+   },
+   "Nürburgring Combined - Gesamtstrecke Short w/out Arena":{
+      "name":"Nürburgring Combined",
+      "config":"Gesamtstrecke Short w/out Arena"
+   },
+   "[Legacy] Silverstone Circuit - 2008 - Grand Prix":{
+      "name":"[Legacy] Silverstone Circuit",
+      "config":"2008 - Grand Prix"
+   },
+   "Oulton Park Circuit - Intl w/out Brittens":{
+      "name":"Oulton Park Circuit",
+      "config":"Intl w/out Brittens"
+   },
+   "Autodromo Nazionale Monza - Combined without chicanes":{
+      "name":"Autodromo Nazionale Monza",
+      "config":"Combined without chicanes"
+   },
+   "Circuit de Spa-Francorchamps - Classic Pits":{
+      "name":"Circuit de Spa-Francorchamps",
+      "config":"Classic Pits"
+   },
+   "Watkins Glen International - Classic":{
+      "name":"Watkins Glen International",
+      "config":"Classic"
+   },
+   "Nürburgring Combined - Gesamtstrecke VLN":{
+      "name":"Nürburgring Combined",
+      "config":"Gesamtstrecke VLN"
+   },
+   "Homestead Miami Speedway - IndyCar Oval":{
+      "name":"Homestead Miami Speedway",
+      "config":"IndyCar Oval"
+   },
+   "Mid-Ohio Sports Car Course - Chicane":{
+      "name":"Mid-Ohio Sports Car Course",
+      "config":"Chicane"
+   },
+   "Daytona International Speedway - Road Course Dynamic weather, Dynamic sky,":{
+      "name":"Daytona International Speedway",
+      "config":"Road Course"
+   },
+   "Nürburgring Combined - Gesamtstrecke 24h":{
+      "name":"Nürburgring Combined",
+      "config":"Gesamtstrecke 24h"
+   },
+   "Circuit of the Americas - Grand Prix":{
+      "name":"Circuit of the Americas",
+      "config":"Grand Prix"
+   },
+   "Nürburgring Grand-Prix-Strecke - BES/WEC":{
+      "name":"Nürburgring Grand-Prix-Strecke",
+      "config":"BES/WEC"
+   },
+   "USA International Speedway - Dirt":{
+      "name":"USA International Speedway",
+      "config":"Dirt"
+   },
+   "Lanier National Speedway - Dirt":{
+      "name":"Lanier National Speedway",
+      "config":"Dirt"
+   },
+   "Limaland Motorsports Park":{
+      "name":"Limaland Motorsports Park",
+      "config":"Limaland Motorsports Park"
+   },
+   "Eldora Speedway":{
+      "name":"Eldora Speedway",
+      "config":"Eldora Speedway"
+   },
+   "Chili Bowl":{
+      "name":"Chili Bowl",
+      "config":"Chili Bowl"
+   },
+   "Fairbury Speedway":{
+      "name":"Fairbury Speedway",
+      "config":"Fairbury Speedway"
+   },
+   "Volusia Speedway Park":{
+      "name":"Volusia Speedway Park",
+      "config":"Volusia Speedway Park"
+   },
+   "Knoxville Raceway":{
+      "name":"Knoxville Raceway",
+      "config":"Knoxville Raceway"
+   },
+   "Lernerville Speedway":{
+      "name":"Lernerville Speedway",
+      "config":"Lernerville Speedway"
+   },
+   "Weedsport Speedway":{
+      "name":"Weedsport Speedway",
+      "config":"Weedsport Speedway"
+   },
+   "The Dirt Track at Charlotte":{
+      "name":"The Dirt Track at Charlotte",
+      "config":"The Dirt Track at Charlotte"
+   },
+   "Kokomo Speedway":{
+      "name":"Kokomo Speedway",
+      "config":"Kokomo Speedway"
+   },
+   "Williams Grove Speedway":{
+      "name":"Williams Grove Speedway",
+      "config":"Williams Grove Speedway"
+   },
+   "[Legacy] Daytona International Speedway - 2008 Constant weather, Dynamic sky, Qual - Rallycross Short":{
+      "name":"[Legacy] Daytona International Speedway",
+      "config":"2008 - Rallycross Short"
+   },
+   "[Legacy] Daytona International Speedway - 2008 Constant weather, Dynamic sky, Qual - Rallycross Long":{
+      "name":"[Legacy] Daytona International Speedway",
+      "config":"2008 - Rallycross Long"
+   },
+   "[Legacy] Phoenix Raceway - 2008 - Rallycross":{
+      "name":"[Legacy] Phoenix Raceway",
+      "config":"2008 - Rallycross"
+   },
+   "Sonoma Raceway - Rallycross":{
+      "name":"Sonoma Raceway",
+      "config":"Rallycross"
+   },
+   "Lånkebanen":{
+      "name":"Lånkebanen",
+      "config":"Lånkebanen"
+   },
+   "[Legacy] Daytona International Speedway - 2008 Dynamic weather, Dynamic sky, Qual - Rallycross Long":{
+      "name":"[Legacy] Daytona International Speedway",
+      "config":"2008 - Rallycross Long"
+   },
+   "Atlanta Motor Speedway - Rallycross Long":{
+      "name":"Atlanta Motor Speedway",
+      "config":"Rallycross Long"
+   },
+   "Iowa Speedway - Rallycross":{
+      "name":"Iowa Speedway",
+      "config":"Rallycross"
+   },
+   "Lucas Oil Raceway - Rallycross":{
+      "name":"Lucas Oil Raceway",
+      "config":"Rallycross"
+   },
+   "Atlanta Motor Speedway - Rallycross Short":{
+      "name":"Atlanta Motor Speedway",
+      "config":"Rallycross Short"
+   },
+   "[Legacy] Daytona International Speedway - 2008 Dynamic weather, Dynamic sky, Qual - Rallycross Short":{
+      "name":"[Legacy] Daytona International Speedway",
+      "config":"2008 - Rallycross Short"
+   },
+   "Crandon International Raceway - Full":{
+      "name":"Crandon International Raceway",
+      "config":"Full"
+   },
+   "Wild West Motorsports Park":{
+      "name":"Wild West Motorsports Park",
+      "config":"Wild West Motorsports Park"
+   },
+   "Wild Horse Pass Motorsports Park":{
+      "name":"Wild Horse Pass Motorsports Park",
+      "config":"Wild Horse Pass Motorsports Park"
+   },
+   "Crandon International Raceway - Short":{
+      "name":"Crandon International Raceway",
+      "config":"Short"
+   },
+   "Autodromo Nazionale Monza - Oval - Left turning Constant weather, Dynamic sky, Qual":{
+      "name":"Autodromo Nazionale Monza",
+      "config":"Oval - Left turning"
+   },
+   "[Legacy] Pocono Raceway - 2009 - Oval":{
+      "name":"[Legacy] Pocono Raceway",
+      "config":"2009 - Oval"
+   },
+   "[Legacy] Daytona International Speedway - 2008 Constant weather, Dynamic sky, Qual - Road Course":{
+      "name":"[Legacy] Daytona International Speedway",
+      "config":"2008 - Road Course"
+   },
+   "Dover International Speedway":{
+      "name":"Dover International Speedway",
+      "config":"Dover International Speedway"
+   },
+   "Nashville Fairgrounds Speedway - Mini":{
+      "name":"Nashville Fairgrounds Speedway",
+      "config":" mini"
+   },
+   "Bristol Motor Speedway - Dirt":{
+      "name":"Bristol Motor Speedway",
+      "config":"Dirt"
+   },
+   "IRacing Superspeedway":{
+      "name":"IRacing Superspeedway",
+      "config":"IRacing Superspeedway"
+   },
+   "Kansas Speedway - Oval":{
+      "name":"Kansas Speedway",
+      "config":"Oval"
+   },
+   "Kentucky Speedway - Oval":{
+      "name":"Kentucky Speedway",
+      "config":"Oval"
+   },
+   "Texas Motor Speedway - Oval":{
+      "name":"Texas Motor Speedway",
+      "config":"Oval"
+   },
+   "Bristol Motor Speedway - Dual Pit Roads":{
+      "name":"Bristol Motor Speedway",
+      "config":"Dual Pit Roads"
+   },
+   "Mid-Ohio Sports Car Course - Full Course":{
+      "name":"Mid-Ohio Sports Car Course",
+      "config":"Full Course"
+   },
+   "Phoenix Raceway - Oval w/open dogleg":{
+      "name":"Phoenix Raceway",
+      "config":"Oval w/open dogleg"
+   },
+   "[Legacy] Charlotte Motor Speedway - 2008 - Road Course":{
+      "name":"Charlotte Motor Speedway",
+      "config":"Road Course"
+   },
+   "Autodromo Nazionale Monza - Combined without first chicane":{
+      "name":"Autodromo Nazionale Monza",
+      "config":"Combined without first chicane"
+   },
+   "Bark River International Raceway":{
+      "name":"Bark River International Raceway",
+      "config":"Bark River International Raceway"
+   },
+   "Brands Hatch Circuit - Rallycross":{
+      "name":"Brands Hatch Circuit",
+      "config":"Rallycross"
+   },
+   "Cedar Lake Speedway":{
+      "name":"Cedar Lake Speedway",
+      "config":"Cedar Lake Speedway"
+   },
+   "Charlotte Motor Speedway - Rallycross":{
+      "name":"Charlotte Motor Speedway",
+      "config":"Rallycross"
+   },
+   "Circuit de Barcelona-Catalunya - Rallycross":{
+      "name":"Circuit de Barcelona-Catalunya",
+      "config":"Rallycross"
+   },
+   "Circuit de Spa-Francorchamps - Endurance":{
+      "name":"Circuit de Spa-Francorchamps",
+      "config":"Endurance"
+   },
+   "Circuit des 24 Heures du Mans - Historic":{
+      "name":"Circuit des 24 Heures du Mans",
+      "config":"Historic"
+   },
+   "Hockenheimring Baden-Württemberg - Grand Prix":{
+      "name":"Hockenheimring Baden-Württemberg",
+      "config":"Grand Prix"
+   },
+   "Hockenheimring Baden-Württemberg - National A":{
+      "name":"Hockenheimring Baden-Württemberg",
+      "config":"National A"
+   },
+   "Hockenheimring Baden-Württemberg - Outer":{
+      "name":"Hockenheimring Baden-Württemberg",
+      "config":"Outer"
+   },
+   "Indianapolis Motor Speedway - Road Course":{
+      "name":"Indianapolis Motor Speedway",
+      "config":"Road Course"
+   },
+   "Long Beach Street Circuit":{
+      "name":"Long Beach Street Circuit",
+      "config":"Long Beach Street Circuit"
+   },
+   "New Hampshire Motor Speedway - Road Course Constant weather, Dynamic sky, Qual with South Oval":{
+      "name":"New Hampshire Motor Speedway",
+      "config":"Qual with South Oval"
+   },
+   "Nürburgring Combined - Gesamtstrecke Long":{
+      "name":"Nürburgring Combined",
+      "config":"Gesamtstrecke Long"
+   },
+   "Nürburgring Grand-Prix-Strecke - Sprintstrecke":{
+      "name":"Nürburgring Grand-Prix-Strecke",
+      "config":"Sprintstrecke"
+   },
+   "Suzuka International Racing Course - West":{
+      "name":"Suzuka International Racing Course",
+      "config":"West"
+   },
+  "[Legacy] Charlotte Motor Speedway - 2008 - Legends Oval": {
+    "name": "Charlotte Motor Speedway - 2008",
+    "config": "Legends Oval"
+  },
+  "Hickory Motor Speedway": {
+    "name": "Hickory Motor Speedway",
+    "config": "Hickory Motor Speedway"
+  },
+  "Nashville Superspeedway": {
+    "name": "Nashville Superspeedway",
+    "config": "Nashville Superspeedway"
+  },
+  "Lime Rock Park - Chicanes": {
+    "name": "Lime Rock Park",
+    "config": "Chicanes"
+  },
+  "Charlotte Motor Speedway - Legends RC Long - Constant weather, Dynamic sky, Qual 2018": {
+    "name": "Charlotte Motor Speedway",
+    "config": "Legends RC Long"
+  },
+  "Summit Point Raceway - Jefferson Reverse": {
+    "name": "Summit Point Raceway",
+    "config": "Jefferson Reverse"
+  },
+  "Tsukuba Circuit - 2000 Short": {
+    "name": "Tsukuba Circuit",
+    "config": "2000 Short"
+  },
+  "Oulton Park Circuit - Island Historic": {
+    "name": "Oulton Park Circuit",
+    "config": "Island Historic"
+  },
+  "Hungaroring": {
+    "name": "Hungaroring",
+    "config": "Hungaroring"
+  },
+  "Snetterton Circuit - 200": {
+    "name": "Snetterton Circuit",
+    "config": "200"
+  },
+  "Red Bull Ring - Grand Prix": {
+    "name": "Red Bull Ring",
+    "config": "Grand Prix"
+  },
+  "Circuit of the Americas - West": {
+    "name": "Circuit of the Americas",
+    "config": "West"
+  },
+  "Autodromo Internazionale Enzo e Dino Ferrari - Moto": {
+    "name": "Autodromo Internazionale Enzo e Dino Ferrari",
+    "config": "Moto"
+  },
+  "Autodromo Nazionale Monza - GP without chicanes": {
+    "name": "Autodromo Nazionale Monza",
+    "config": "GP Without Chicanes"
+  },
+  "Hockenheimring Baden-Württemberg - National B": {
+    "name": "Hockenheimring Baden-Württemberg",
+    "config": "National B"
+  },
+  "Circuit de Barcelona Catalunya - National": {
+    "name": "Circuit de Barcelona Catalunya",
+    "config": "National"
+  },
+  "[Legacy] Daytona International Speedway - 2008 Dynamic weather, Dynamic sky, Qual - Moto": {
+    "name": "[Legacy] Daytona International Speedway",
+    "config": "Moto"
+  },
+  "Chicago Street Circuit": {
+    "name": "Chicago Street Circuit",
+    "config": "Chicago Street Cricuit"
+  },
+  "Homestead Miami Speedway - Road Course A": {
+    "name": "Homestead Miami Speedway",
+    "config": "Road Course A"
+  },
+  "Charlotte Motor Speedway - Roval - 2018": {
+    "name": "Charlotte Motor Speedway",
+    "config": "Roval - 2018"
+  },
+  "Daytona International Speedway - Road Course Dynamic weather, Dynamic sky, Grid": {
+    "name": "Daytona International Speedway",
+    "config": "Road Course"
+  },
+  "Suzuka International Racing Course - Grand Prix Super session, Dynamic weather,": {
+    "name": "Zuzuka International Racing Course",
+    "config": "Grand Prix"
+  },
+  "Daytona International Speedway - NASCAR Road": {
+    "name": "Daytona International Speedway",
+    "config": "NASCAR Road"
+  },
+  "Oulton Park Circuit - Island": {
+    "name": "Oulton Park Circuit",
+    "config": "Island"
+  },
+  "Knockhill Racing Circuit - International": {
+    "name": "Knockhill Racing Circuit",
+    "config": "International"
+  },
+  "Knockhill Racing Circuit - International Reverse": {
+    "name": "Knockhill Racing Circuit",
+    "config": "International Reverse"
+  },
+  "Knockhill Racing Circuit - National Reverse":{
+    "name":"Knockhill Racing Circuit",
+    "config":"National Reverse"
+  },
+  "Nürburgring Grand-Prix-Strecke - Kurzanbindung Dynamic weather, Dynamic sky, Qual w/out Arena": {
+    "name": "Nürburgring Grand-Prix-Strecke",
+    "config": "Kurzanbindung"
+  },
+  "Silverstone Circuit - National": {
+    "name": "Silverstone Circuit",
+    "config": "National"
+  },
+  "Red Bull Ring - National": {
+    "name": "Red Bull Ring",
+    "config": "National"
+  },
+  "Charlotte Motor Speedway - Legends RC Long - Dynamic weather, Dynamic sky, Qual 2018": {
+    "name": "Charlotte Motor Speedway",
+    "config": "Legend RC Long, 2018"
+  },
+  "Circuit de Barcelona Catalunya - Moto": {
+    "name": "Circuit de Barcelona Catalunya",
+    "config": "Moto"
+  },
+  "Suzuka International Racing Course - Grand Prix Dynamic weather, Dynamic sky, Grid": {
+    "name": "Suzuka International Racing Course",
+    "config": "Grand Prix"
+  },
+  "Knockhill Racing Circuit - Rallycross": {
+    "name": "Knockhill Racing Circuit",
+    "config": "Grand Prix"
+  },
+  "LA Coliseum Raceway": {
+    "name": "LA Coliseum Raceway",
+    "config": "LA Coliseum Raceway"
+  },
+  "Las Vegas Motor Speedway - Infield Legends Oval": {
+    "name": "Las Vegas Motor Speedway",
+    "config": "Infield Legends Oval"
+  },
+  "Winton Motor Raceway - National Circuit": {
+    "name": "Winton Motor Raceway",
+    "config": "National Circuit"
+  },
+  "Winton Motor Raceway - Club Circuit": {
+   "name": "Winton Motor Raceway",
+   "config": "Club Circuit"
+  },
+  "Lime Rock Park - West Bend Chicane":{
+      "name":"Lime Rock Park",
+      "config":"West Bend Chicane"
+   },
+   "Sonoma Raceway - IndyCar 2012-2018":{
+      "name":"Sonoma Raceway",
+      "config":"IndyCar 2012-2018"
+   },
+   "Summit Point Raceway - Summit Point Raceway Dynamic weather, Dynamic sky, Grid":{
+      "name":"Summit Point Raceway",
+      "config":"Summit Point Raceway"
+   },
+   "Suzuka International Racing Course - Grand Prix Dynamic weather, Dynamic sky,":{
+      "name":"Suzuka International Racing Course",
+      "config":"Grand Prix"
+   },
+   "Federated Auto Parts Raceway at I-55":{
+      "name":"Federated Auto Parts Raceway at I-55",
+      "config":"Federated Auto Parts Raceway at I-55"
+   },
+   "iRacing Superspeedway":{
+      "name":"iRacing Superspeedway",
+      "config":"iRacing Superspeedway"
+   }
+}
