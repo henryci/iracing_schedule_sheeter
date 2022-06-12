@@ -946,5 +946,18 @@
    "iRacing Superspeedway":{
       "name":"iRacing Superspeedway",
       "config":"iRacing Superspeedway"
-   }
+   },
+   "Twin Ring Motegi - West":{"name":"Twin Ring Motegi","config":"West"},
+   "Twin Ring Motegi - East":{"name":"Twin Ring Motegi","config":"East"},
+   "Dover Motor Speedway":{"name":"Dover Motor Speedway","config":"Dover Motor Speedway"},
+   "Iowa Speedway - Infield Legends":{"name":"Iowa Speedway","config":"Infield Legends"},
+   "Atlanta Motor Speedway - Legends Oval":{"name":"Atlanta Motor Speedway","config":"Legends Oval"},
+   "Sandown International Motor Raceway - ---":{"name":"Sandown International Motor Raceway","config":"---"},
+   "Fuji International Speedway - Grand Prix":{"name":"Fuji International Speedway","config":"Grand Prix"},
+   "Fuji International Speedway - No Chicane":{"name":"Fuji International Speedway","config":"No Chicane"},
+   "Summit Point Raceway - Short":{"name":"Summit Point Raceway","config":"Short"},
+   "Sonoma Raceway - IndyCar 2008-2011":{"name":"Sonoma Raceway","config":"IndyCar 2008-2011"},
+   "Barber Motorsports Park - Short A":{"name":"Barber Motorsports Park","config":"Short A"},
+   "Silverstone Circuit - International":{"name":"Silverstone Circuit","config":"International"},
+   "Port Royal Speedway - ---":{"name":"Port Royal Speedway","config":"---"}
 }

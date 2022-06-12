@@ -2,7 +2,7 @@
 # is just a continuation of the previous table
 def is_table_start_of_series(table)
   table_as_array = table.to_a
-  return false if table_as_array[0] && table_as_array[0][1].length > 1
+  return false if table_as_array[0] && table_as_array[1] && table_as_array[0][1].length > 1
   return true
 end
 

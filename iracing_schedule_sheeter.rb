@@ -15,6 +15,7 @@ DUMP_TRACKS = false  # If set to true, dumps the list of known tracks
 
 if !ARGV[0]
   puts "Usage: ./this_script.rb <PDF_from_iRacing>"
+  exit
 end
 
 # An array of strings representing the output
